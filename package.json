@@ -8,7 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "api_interaction_services": "^0.2.7",
+    "api_interaction_services": "^0.2.12",
+    "fp-ts": "^2.11.1",
+    "inversify": "^5.1.1",
+    "reflect-metadata": "^0.1.13",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
